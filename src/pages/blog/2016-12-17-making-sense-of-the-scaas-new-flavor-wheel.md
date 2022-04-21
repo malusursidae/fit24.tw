@@ -1,33 +1,366 @@
 ---
 templateKey: blog-post
-title: Making sense of the SCAA’s new Flavor Wheel
+title: 打造與貓咪一起幸福的理想生活｜跟著林子軒獸醫師用科學理解貓行為
 date: 2016-12-17T15:04:10.000Z
+description: |-
+  「貓永遠是我們的小小孩，
+  只要多懂他一點，就能用他真正需要的方式愛他。」
+  ——貓行為獸醫師 林子軒
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: The Coffee Taster’s Flavor Wheel, the official resource used by coffee tasters, has been revised for the first time this year.
+featuredimage: https://pics.seeds.com.tw/courses/cat-behavior/cover_pc.png
 tags:
   - flavor
   - tasting
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+<!--StartFragment-->
 
-The SCAA updated the wheel to reflect the finer nuances needed to describe flavors more precisely. The new descriptions are more detailed and hence allow cuppers to distinguish between more flavors.
+# 為了捍衛我的睡眠，我走上貓行為研究這條路
 
-While this is going to be a big change for professional coffee tasters, it means a lot to you as a consumer as well. We’ll explain how the wheel came to be, how pros use it and what the flavors actually mean.
+我是全亞洲第一位 IAABC 國際認證的貓行為諮詢師，出版過兩本貓行為書籍，但這並非我原先預期的生涯發展，背後的推手是隻聰明的貓男孩－橘小橘，我生命裡重要的夥伴和家人。
 
-## What the updates mean to you
+時光倒轉十年前我遇見橘小橘的那天，剛從狗嘴裡死裏逃生的他，眨著渾圓的大眼睛，輕柔地往我身上蹭，彷彿鞋貓劍客翻版，還沒發動招式就得到我整顆心，但自他踏進家門的那刻起，我才發現我犯了養貓最大的錯誤－「以貌取貓」，我們之間的對決從此展開...
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+<!--EndFragment-->
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+![](https://pics.seeds.com.tw/courses/cat-behavior/orange_1_pc.png)
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+![](https://pics.seeds.com.tw/courses/cat-behavior/orange_2_pc.png)
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
+![](https://pics.seeds.com.tw/courses/cat-behavior/orange_3_pc.png)
 
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+<!--StartFragment-->
+
+回家沒幾天，橘小橘開始出現各種異常的行為問題，亂撒尿是小事，每天半夜不停哭嚎，創造都市叢林的環繞音效，才讓我既頭痛又心疼。為了安撫他的情緒，我得夜夜抱著顫抖的小橘，直到凌晨重播的八點檔終於演完，才能勉強闔上眼（我因此能倒背如流所有狗血劇情...）。我窮盡各種門路，卻一次次被這隻聰明的貓男孩擊敗，於是轉往國外尋求資源，希望獲得與各國專業動物行為諮詢師交流的機會。
+
+單純秉著一片愛貓的心，我努力通過考核取得認證，成為 IAABC 貓行為研究領域的一份子，進一步與其他成員交流，才終於成功解析小橘的行為問題來自慢性焦慮，並得以對症下藥從根源化解問題。看見他在我懷裡終於不再顫抖，可以安穩地瞇起眼睛入夢，呼嚕呼嚕地，那瞬間，我才知道身為貓奴能感受到最大的快樂，其實就這麼簡單。
+
+感到欣慰之餘，我更看見國內貓咪行為諮詢領域的侷限，從此以破解大眾對貓的迷思為使命，成為專攻貓行為諮詢的獸醫師，我想告訴大家，貓不是神秘、孤僻或難搞，只是你並不理解他。在多年的臨床諮詢經驗中，我更深刻地體悟到，貓行為問題其實大多來自於「人」，每隻個性截然不同的貓咪都有著相同的邏輯天性，但是飼主慣於以主觀的角度解讀，導致傷害一再產生，不僅生活品質低落，也失去照料彼此的信心。反之，當你嘗試以貓的邏輯了解他的需求，你會發現這隻不擅表達情緒的小毛團要求得並不多，而他最努力嘗試的，就是融化你的心。
+
+希望這門線上課程可以給愛貓的你一些指引，即便資源有限，只要掌握貓咪行為的核心原則，除了 WHY，更懂得 HOW（如何去解決），你就能替自己找到最合適的解決方案，創造更和諧的人貓關係，更重要的是，更有自信地為彼此打理好生活。
+
+<!--EndFragment-->
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/profile_pc.png)
+
+<!--StartFragment-->
+
+# 貓行為獸醫師林子軒
+
+### 講師經歷
+
+IAABC 國際動物行為諮詢協會｜貓行為諮詢師（亞洲第一位）
+
+AVSAB 美國獸醫師動物行為協會｜會員
+
+杜瑪動物醫院｜貓行為門診獸醫師
+
+各大專院校＆媒體之貓咪行為諮詢顧問
+
+### 貓行為相關著作
+
+2015《秒懂貓咪，行為學醫師的貓星球解析》
+
+2019《貓邏輯 Cat Logic》
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+# 課程章節介紹
+
+### 此次課程設計約 8 小時，我會帶你放下人的主觀意識， 教你用貓的邏輯思考，解決令人頭疼的相處問題。
+
+這是一門系統化的貓咪行為學課程，將帶你從貓的天性、貓與人的互動、貓對環境的需求，以及貓的群體關係，理解貓咪獨特的邏輯與需求，接著探討臨床最常見的貓行為問題。當你們了解貓咪最根本的思考模式和行為目的後，你就能察覺出問題可能的癥結點，並且替自己找到適合且可執行的解決方案。
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+# 第一章節《歡迎進入貓咪的世界》
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch_line_pc.png)
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/cat1_pc.png)
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/table_pc.png)
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch1_pc.png)
+
+* ・老師介紹與課程介紹
+* ・貓咪的天性概論－貓咪為什麼看起來神秘又難搞？
+* ・貓咪的性格建立
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch_line_pc.png)
+
+# 第二章節《貓咪與人的相處》
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch_line_pc.png)![](https://pics.seeds.com.tw/courses/cat-behavior/shelf_pc.png)
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch2-1_pc.png)![](https://pics.seeds.com.tw/courses/cat-behavior/cat2_pc.png)
+
+### 建立關係－理解貓咪的聲音＆肢體語言
+
+* ・貓咪的聲音＆肢體語言
+* ・如何與貓咪建立關係？
+* ・親人訓練的正確觀念
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch2-2_pc.png)
+
+### 日常相處－與你的貓咪培養生活默契
+
+* ・溝通＆教養原則
+* ・作息與生理時鐘調整
+* ・響片訓練的原理原則
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch2-3_pc.png)
+
+### 遊戲時光－貓咪的遊戲機制及需求
+
+* ・遊戲的三大滿足條件
+* ・互動玩具挑選與有效率的陪玩方式
+* ・低成本輕鬆自製藏食玩具
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch2-4_pc.png)
+
+### 減敏訓練－讓你的貓咪生活得更自在
+
+* ・基礎觀念與原則
+* ・實例說明：剪指甲
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch_line_pc.png)
+
+# 第三章節《貓咪對環境的需求》
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch_line_pc.png)![](https://pics.seeds.com.tw/courses/cat-behavior/stairs_pc.png)
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch3-1_pc.png)![](https://pics.seeds.com.tw/courses/cat-behavior/cat3_pc.png)
+
+### 貓咪對環境空間的四大需求
+
+* ・垂直空間需求
+* ・躲藏空間需求
+* ・地盤標記需求
+* ・生活基本需求
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch3-2_pc.png)
+
+### 如何佈置貓咪理想的生活環境
+
+* ・垂直空間：貓跳台、貓走道
+* ・躲藏空間：貓窩
+* ・地盤標記：貓抓板、貓抓柱
+* ・生活需求：貓砂盆、餐碗
+* ・其他用品：貓草、費洛蒙用品
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch3-3_pc.png)
+
+### 貓宅空間常見煩惱
+
+* ・貓咪喜歡跳到神桌、中島、流理台怎麼辦？
+* ・貓咪喜歡躲在衣櫃、沙發或有危險性的空間怎麼辦？
+* ・貓咪總是亂抓家具怎麼辦？
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch_line_pc.png)
+
+# 第四章節《貓咪的群體關係》
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch_line_pc.png)![](https://pics.seeds.com.tw/courses/cat-behavior/catfood_pc.png)![](https://pics.seeds.com.tw/courses/cat-behavior/cat4_pc.png)
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch4-1_pc.png)
+
+### 貓咪群體關係基本認知
+
+* ・從天性了解貓咪的群體關係
+* ・貓咪群體互動模式
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch4-2_pc.png)
+
+### 貓王國地盤觀念
+
+* ・地盤劃分法1：氣味標記（費洛蒙）
+* ・地盤劃分法2：視覺標記（貓抓板）
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch4-3_pc.png)
+
+### 多貓家庭教養原則與問題解決
+
+* ・多貓家庭環境用品佈置法則
+* ・重要教養觀念
+* ・多貓衝突處理機制
+* ・如何順利地引薦新貓
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch_line_pc.png)
+
+# 第五章節《臨床最常見的貓咪行為問題》
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch_line_pc.png)![](https://pics.seeds.com.tw/courses/cat-behavior/cat5_pc.png)
+
+其實，貓咪的行為就像一面鏡子，會映照出主人的對待方式，以及環境的潛在問題。
+
+本章節我將帶你從三大核心面向切入，探討臨床常見的貓咪行為問題，讓你更有意識地察覺貓咪異常的行為，舉凡攻擊、焦慮、過度舔舐、異食癖、排泄問題，都會在此章節深入說明。
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/ch5_pc.png)
+
+### 三大核心面向－貓、人、環境
+
+* ・貓咪生心理＆多貓互動因子
+* ・貓與人互動因子
+* ・環境佈置因子
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/warning_pc.png)
+
+此課程中所提到的觀念以及行為問題臨床案例，旨在幫助各位能夠更好地理解貓咪的需求、行為背後的可能成因，並且覺察貓咪是否可能有行為問題，但是行為問題鑑定仍必須依賴完整的臨床檢驗做為基礎，以便釐清是否有疾病因素，因此若您感覺問題已經嚴重干擾生活品質，一定要尋求專業獸醫師協助，而非自行診斷，才是對貓咪最安全的方式。
+
+# 課程各單元將遵循以下架構， 帶你輕鬆學會貓行為知識，並且實際應用改善生活
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+# 富有臨床經驗的獸醫師， 和你分享可靠而實用的貓行為科學
+
+許多貓咪飼主們遇到問題時，上網搜尋通常能輕易地獲得分享與解答，不過卻難以確認資訊是否正確。就如同人們生病時會建議尋求專業協助，在看待貓咪的行為問題上，也是相同的。\
+從事獸醫師及貓行為諮詢師這幾年來，我曾為許多飼主進行無數次的診療諮詢、舉辦多場專題講座、撰寫兩本專書，在這門課程中，我會以臨床行為治療經驗和國內外相關研究為根據，將貓行為科學以輕鬆易懂、活潑有趣的方式解說給你聽，並以曾經手過的經典臨床案例，讓你更加明白貓咪的行為邏輯、情緒解讀，以及異常行為背後可能的成因。當你懂得越多，就越能好好服侍你家的貓主子 (誤)！
+
+# 讓你的知識活起來！ 課程提供容易執行又有效的行動方案
+
+貓咪不睡覺，半夜在你床上跳？兩隻貓互看不順眼，天天趁你不在家火拼？\
+在課程中，我將分享許多可實際解決人貓相處問題的行動方案，我希望在你上完課程後，能將知識融會貫通，實際應用在生活中，對於達成人貓和諧的目標更有信心。比如，我經常遇到飼主困擾於貓咪夜晚不睡覺的問題，長久下來感到身心俱疲。其實只要理解貓咪的生理時鐘，依此在餵食時間及份量、遊戲時間做一點調整，就能讓彼此都一夜好眠。藉由根基於貓行為科學的知識，依循簡單而具體的步驟，相信你會逐漸看到人貓相處的問題有所改善。
+
+<!--EndFragment-->
+
+<!--StartFragment-->
+
+# 貓咪圖文創作者辛卡米克參上！ 用有趣活潑的漫畫破題，引起貓奴們的共鳴
+
+有在關注我粉絲團的朋友們，大概都知道我立志成為貓行為梗圖專家 (誤)，也喜歡嘗試各種方法，只為了能盡量將正確的貓行為知識傳達給更多人知道，這門課程延續了這樣的概念，因此特別邀請貓咪圖文創作者辛卡米克，為每一個單元繪製單幅漫畫。在課程單元片頭，我們設計以有趣的情境破題，不僅能協助大家更快速理解單元核心主題，相信漫畫中辛卡米克家超鬧事的貓咪們，也一定能引起你的共鳴。這會是一堂知識豐富，卻也逗趣又溫暖的線上課程，希望能幫助到愛貓的你們。
+
+# 貓咪、人、環境— 從三大核心面向，架構化而全面地理解貓咪行為
+
+我們普遍習慣用人類的思考邏輯去判斷貓咪的行為，或是從單一視角去理解問題，因而產生錯誤迷思。比如：「林醫師，貓咪為什麼愛咬我的伴侶腳踝？是不是因為嫉妒？」其實貓咪並沒有這麼複雜的心思，但若他們反覆地做同樣的行為，背後原因究竟是什麼？
+
+這門課程的任務，就是要帶著你從『貓咪本身、貓與人、貓與環境、貓與貓』這四個層面，系統化地去理解貓咪為什麼這樣做？如何滿足貓咪的生活需求？這樣最後我們在談論臨床最常見的『貓行為問題』時，你就能見樹又見林，懂得從多面向地去探討問題可能的成因。課程裡不會提供套模板、治標不治本的答案，因為每一隻貓咪都有其獨特個性，但若從原則性的核心概念出發，學習從貓咪的角度理解他們，或許就能改善互動中的許多衝突，為你和貓咪的和諧生活奠定更紮實的基礎。
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/cat6_pc.png)
+
+# 課程解鎖活動
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/unlock1_pc.png)
+
+### 突破1000人
+
+#### 解鎖課程
+
+### 「貓咪逃難指南」
+
+了解更多
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/unlock_icon_pc.png)
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/unlock2_pc.png)
+
+### 突破2000人
+
+#### 解鎖課程
+
+### 「貓咪走失處理辦法」
+
+了解更多
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/unlock_icon_pc.png)
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/group_pc.png)
+
+# 課後專屬 FB 社團 以及學員限定直播小講堂
+
+正式開課後，將會開設一個專屬於購課學員的FB 社團，供各位學員彼此交流、分享學習心得，我同時會規劃學員限定的 4 場直播小講堂，回覆大家在上課過程中，最常遇到的疑問或困擾，期待與大家在社團直播中交流囉！
+
+社團營運時間：2022.4.20 － 2023.4.20
+
+# 上完這堂課，你將能夠：
+
+* 破除對貓咪行為的常見迷思，從貓行為科學角度去理解行為、肢體語言的含義。
+* 透過規律且有品質的互動時間及遊戲，和貓咪建立生活默契，以及「有效的溝通模式」。
+* 真正理解貓咪對於環境的基本需求，即使運用有限預算及資源，也能打造出令貓咪自在放鬆的舒適貓宅。
+* 理解常見貓行為問題的種類，包含焦慮／排泄／攻擊行為／過度舔毛／異食癖等，並從核心因素去探討行為問題背後的可能成因，及早覺察問題，嘗試從互動方式及環境著手改善。
+* 在收編更多貓咪時，擁有正確的知識及評估，來為新貓進入家庭做好準備，預防、甚至是解決衝突，讓每隻貓皇都能舒服地和你生活在一起。
+* 更重要的是，不必再因為各種網路教學文章，陷入「自己做得不夠多、不夠好」的擔憂，學習正確的知識觀念，便能在原有的基礎上，為你以及貓咪的生活加分。
+
+# 這堂課適合誰？特別推薦給：
+
+* 與貓相處融洽但想更了解貓咪需求的貓奴
+
+  非常用心打理貓咪的生活，把主子照料地服服貼貼，但希望能更加理解在貓咪可愛的外表下，隱藏最真實需求與想要傳達的訊息，讓主子可以過得更舒服輕鬆。同時希望能夠察覺貓咪潛在的行為問題，甚而在問題發生前就先行預防。
+* 主子有行為異常的問題卻求助無援的貓奴
+
+  主子有各式行為問題包括異食癖、排泄問題、過度舔毛、攻擊行為、焦慮問題...等，希望通盤了解貓咪行為問題可能的肇因，找到適切的解決辦法，讓貓咪可以過得更舒適、快樂。（我強烈建議，無論如何都一定要先尋求專業獸醫諮詢）
+* 養了貓後生活品質下降的貓奴
+
+  自從養了貓後，因為作息和相處衝突，導致生活品質大幅下降。例如：一到半夜貓咪集體開趴狂歡，東跑西跳，吵得你無法好好睡一覺；清晨鬧鐘都還沒響，主子就跳上床千方百計叫你起床；正要專心工作，主子就對你喵喵叫想要你陪他玩。希望能跟貓咪培養相同的生活頻率與默契，創造平衡的人貓關係與有品質的生活。
+* 近期有收編規劃的準貓奴
+
+  愛貓許久，近期打算正式收編貓咪，因此著手展開家庭環境的佈置與規劃，以及貓咪飼育知識的了解， 希望能有一堂系統性、完整的課程，幫助自己快速地建立正確的貓行為認知，做好最充足的準備，以縮短彼此的磨合期，讓貓主子能夠良好地融入新家庭。
+
+# 課程影片試看
+
+# 貓行為門診看什麼？
+
+貓行為門診，在獸醫領域中屬於內科的範疇。\
+透過諮詢，我替飼主釐清貓咪的行為是否構成問題，並依據完整的臨床檢驗作為基礎，優先確認異常行為背後是否牽涉了疾病因素，若有，以治療為首要之務，接著，才會進一步藉由詳細地問診及觀察，根據貓的外顯行為去分析貓咪產生行為問題的成因，究竟是來自於貓咪的情緒、飼主的養育方式，家中佈置的環境，或是貓咪與其他貓咪相處的模式。
+
+簡單來說，很像是在看貓的身心科！
+
+諸如亂尿尿、攻擊行為（無論是對人或是對其他貓咪）、焦慮問題、過度舔毛，或是異食癖，都是我在門診中最常幫助飼主解決的貓行為問題，除了找出問題根源，我在門診中會提供飼主改善的解決方法，教導飼主如何逐步實踐，進而提升人貓生活的品質。
+
+目前我在**【台北杜瑪動物醫院】**以及**【新竹毛毛村動物醫院】**都有看診，如果你家的貓咪行為怪怪，歡迎一起來找我吧！
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/vet_pc.png)
+
+# 感謝以下貓助教&場地協助拍攝
+
+### ![](https://pics.seeds.com.tw/courses/cat-behavior/house_pc.png)台中市動物之家后里園區
+
+台灣著名現代化動物收容中心，扭轉昔日收容所陰暗冰冷的刻板印象，讓陽光照耀浪犬浪貓。從動物的需求出發，打造美觀、舒適且友善動物的環境，讓收容犬貓能自在展現最真實的性格，以期提高被認養的機率，此外，致力進行生命教育和動物福利觀念的傳遞。
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/model1-1_pc.png)![](https://pics.seeds.com.tw/courses/cat-behavior/model1-2_pc.png)![](https://pics.seeds.com.tw/courses/cat-behavior/model1-3_pc.png)![](https://pics.seeds.com.tw/courses/cat-behavior/model1-4_pc.png)
+
+### ![](https://pics.seeds.com.tw/courses/cat-behavior/house_pc.png)貓欸 Camulet 貓咪主題餐廳
+
+位於新北板橋的貓咪主題餐廳，有貓店員陪吃陪睡，還有中途貓在這裡打工等著認養哦！
+
+![](https://pics.seeds.com.tw/courses/cat-behavior/model2-1_pc.png)![](https://pics.seeds.com.tw/courses/cat-behavior/model2-2_pc.png)![](https://pics.seeds.com.tw/courses/cat-behavior/model2-3_pc.png)![](https://pics.seeds.com.tw/courses/cat-behavior/model2-4_pc.png)
+
+# 常見問題Q&A
+
+### 關於課程內容
+
+* Q：請問在哪裡上課？上課時間？
+
+  「打造與貓咪一起幸福的理想生活｜跟著林子軒獸醫師用科學理解貓行為」為「線上課程」。
+
+  課程影片都是預錄好的影片，不是現場直播。我們採用預錄好的影片形式，確保課程內容呈現有一定的水準品質。包含上字幕、字卡及去除講話時的贅字。
+
+  課程上線後，你可以隨時隨地透過手機、平板、或電腦在學籽上看課程影片，沒有時間和地點的限制。
+* Q: 這門課什麼時候開始上課？
+* Q: 請問課程可以看多久？看幾次？
+* Q: 請問課程費用包含所有章節嗎？
+* Q: 課程解鎖後，要去哪裡看？
+* Q: 上課後可以問老師問題嗎？
+
+### 關於課程報名、付款與退費
+
+* Q: 請問人在國外可以報名嗎？
+* Q: 我是海外學員，如何付款？
+* Q: 購買後沒有收到付款成功通知，怎麼確認已購買完成？
+* Q: 看過課程後可以退費嗎？
+
+### 關於登入課程
+
+* Q: 為什麼我登入後沒有顯示課程？
+* Q: 可以跟別人購買一組帳號，共用觀看課程嗎？
+
+### 其他問題
+
+* Q: 還有其他問題？
+
+<!--EndFragment-->
